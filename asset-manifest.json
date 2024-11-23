@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wolfes-handy-services/static/css/main.e831c8ce.css",
+    "main.js": "/wolfes-handy-services/static/js/main.3d5921d3.js",
+    "index.html": "/wolfes-handy-services/index.html",
+    "main.e831c8ce.css.map": "/wolfes-handy-services/static/css/main.e831c8ce.css.map",
+    "main.3d5921d3.js.map": "/wolfes-handy-services/static/js/main.3d5921d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e831c8ce.css",
+    "static/js/main.3d5921d3.js"
+  ]
+}
